@@ -1,2 +1,2 @@
 # FRME-ARSTRCF
-code of MTE-ISVD In progress, to be released later
+code of FRME-ARSTRCF In progress, to be released later
